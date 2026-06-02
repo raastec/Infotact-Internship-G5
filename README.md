@@ -1,3 +1,4 @@
+# PROJECT 1
 # 🏨 **Travel, Tourism & Hospitality — Customer Retention & Dynamic Pricing Analysis**
 
 Internship Project | Data Science & Analytics
@@ -47,9 +48,71 @@ revenue
 ### 🗓 Week 4
 * Build dashboard
 * Prepare presentation
+# PROJECT 2
+# Pharmacy Data Analysis Dashboard
+
+## Project Overview
+
+This project analyzes pharmacy sales data to identify business trends, customer purchasing patterns, and revenue insights. The project includes data cleaning, exploratory data analysis (EDA), and an interactive Power BI dashboard.
+
+## Project Timeline
+
+### Week 1: Data Cleaning & Preprocessing
+
+* Imported raw pharmacy dataset
+* Handled missing values
+* Removed duplicates
+* Corrected data types
+* Created cleaned dataset for analysis
+
+### Week 2: Exploratory Data Analysis (EDA)
+
+* Analyzed sales performance
+* Identified top-selling products
+* Performed category-wise analysis
+* Generated statistical summaries
+* Created visualizations using Python
+
+### Week 3: Dashboard Development
+
+* Built Power BI data model
+* Created KPI cards
+* Developed interactive visualizations
+* Added filters and slicers
+
+### Week 4: Dashboard Enhancement & Insights
+
+* Improved dashboard design
+* Added business insights
+* Optimized visual performance
+* Finalized dashboard for reporting
+
+## Tools Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Power BI
+* Excel
+
+## Key Outcomes
+
+* Improved visibility into sales performance
+* Identified high-performing products and categories
+* Enabled interactive business reporting through Power BI
+* Generated actionable business insights
+
+## Files Included
+
+* Raw Dataset
+* Cleaned Dataset
+* EDA Notebook
+* Power BI Dashboard (.pbix)
 
 ## Team Members
-1. Ardra N
-2. Rasna K
-3. Fathima Nishana P
-4. Labeeba C
+1. Rasna k
+2. Fathima Nishana P
+3. Labeeba C
+4. Ardra N
